@@ -37,4 +37,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-khadiri&" alt="yassine-khadiri" /></p>
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=ykhadiri)](https://github.com/mohouyizme/1337-readme)
+  
+<p dir="auto" align="center">
+<a href="https://github.com/mohouyizme/1337-readme"><img src="https://camo.githubusercontent.com/b607ed64de94666b24b6bf25d66447b3a6ced878400cfac78051f1c7522d9d7f/68747470733a2f2f313333372d726561646d652e76657263656c2e6170702f6170692f70726f66696c653f6375727375733d3432637572737573266461726b3d7472756526656d61696c3d68696465266c6f67696e3d796b686164697269" alt="42 Profile Card" data-canonical-src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&amp;dark=true&amp;email=hide&amp;login=ykhadiri" style="max-width: 100%;"></a>
+</p>
