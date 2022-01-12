@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
   <br/>
   <br/>
-- 📫 How to reach me **Yassinekhadiri77@gmail.com**
+- 📫 How to reach me <a href="mailto:Yassinekhadiri77@gmail.com">Email</a>
   <br/>
   <br/>
 - ⚡ Fun fact **Am funny HAHA**
