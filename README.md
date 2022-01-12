@@ -2,7 +2,7 @@
 <h3 align="center">A 1337 Student</h3>
 <p align="center"> <img src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" width="500"/> <p/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassine-khadiri&label=Profile%20views&color=0e75b6&style=flat" alt="yassine-khadiri" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yassine-khadiri&label=Profile%20views&color=0e75b6&style=flat" alt="yassine-khadiri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassine-khadiri" alt="yassine-khadiri" /></a> </p>
 
