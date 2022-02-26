@@ -9,7 +9,7 @@
 <p align="center"> <a href="https://twitter.com/khadiriyassine1" target="blank"><img src="https://img.shields.io/twitter/follow/khadiriyassine1?logo=twitter&style=for-the-badge" alt="khadiriyassine1" /></a> </p>
 
 <p align="center">
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, ReactJS**
   <br/>
   <br/>
 - 📫 How to reach me <a href="mailto:Yassinekhadiri77@gmail.com">Email</a>
