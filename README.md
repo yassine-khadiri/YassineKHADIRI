@@ -37,4 +37,6 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-khadiri&" alt="yassine-khadiri" /></p>
 
+<p align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ykhadiri" alt="ykhadiri's 42 stats" /></a>
+</p>
