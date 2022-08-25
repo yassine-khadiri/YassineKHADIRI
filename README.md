@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine KHADIRI</h1>
-<h3 align="center">A 1337 Student</h3>
+<h3 align="center">Student At 1337</h3>
 <p align="center"> <img src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" width="500"/> <p/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yassine-khadiri&label=Profile%20views&color=0e75b6&style=flat" alt="yassine-khadiri" /> </p>
